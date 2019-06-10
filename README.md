@@ -34,7 +34,7 @@ GNU General Public License for more details.
 > You can Use The Test jSON for test ServerCamera. *(putting servercamera.php?test=true)*
 
 #### Assets
-> You need Habbo's Assets to Make the ServerCamera generate the Images. All Assets are available [here](https://github.com/sant0ro/habbo-asset-extractor)
+> You need Habbo's Assets to Make the ServerCamera generate the Images. All Assets are available [here](https://github.com/search?q=habbo-asset-extractor)
 > **Attention**: Assets will be downloaded in correct folders. You Need Execute assets.php, figures.php, masks.php
 
 #### Default Folders
