@@ -24,6 +24,19 @@ GNU General Public License for more details.
 
 > *Read Complete GNU GPL 3.0 [Clicking Here](https://github.com/sant0ro/habbo-camera-server/blob/master/LICENSE.md)*
 
+#### Pre-Requisites
+- Need PhP 5.4x or Later
+- GD Library of PhP
+- HTTP Server (Commonly Web Server)
+- The Following Mime-Types
+  - Image/PNG
+  - Text/Javascript
+  - Text/jSON
+  - Application/PhP
+  - Script/PhP
+  - Application/Javascript
+- Ensure the file has Write Permissions. (LINUX users)
+
 ### Installation
 - Download ServerCamera.php
 - Put in your WebServer
@@ -41,19 +54,6 @@ GNU General Public License for more details.
 - Default Folder for Mask Assets: /masks/
 - Default Folder for Sprites Assets: /sprites/
 - Default Folder for Generated Image: /servercamera/purchased/
-
-#### Pre-Requisites
-- Need PhP 5.4x or Later
-- GD Library of PhP
-- HTTP Server (Commonly Web Server)
-- The Following Mime-Types
-  - Image/PNG
-  - Text/Javascript
-  - Text/jSON
-  - Application/PhP
-  - Script/PhP
-  - Application/Javascript
-- Ensure the file has Write Permissions. (LINUX users)
 
 #### Security
 The Script must be only Requisited by Habbo Emulators. (Following the Habbo Camera API) For that, you Need Have
