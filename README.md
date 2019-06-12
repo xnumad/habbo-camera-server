@@ -27,6 +27,7 @@ GNU General Public License for more details.
 #### Pre-Requisites
 - Need PhP 5.4x or Later
 - GD Library of PhP
+- PHP XML Extension
 - HTTP Server (Commonly Web Server)
 - The Following Mime-Types
   - Image/PNG
